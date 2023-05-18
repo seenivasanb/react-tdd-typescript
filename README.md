@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Test Driven Development learning with Typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is to demonstrate the React Test Driven Development with Typescript using React Testing Library and Jest.
 
 ## Available Scripts
 
